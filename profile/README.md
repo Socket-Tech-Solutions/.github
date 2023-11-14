@@ -1,12 +1,1 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Socket Tech Solutions is a Difference Maker group dedicated to open source software and hardware. Our current project will implement smart plugs that don't require connection to the local network to function. To do this we are using ESP boards as the plugs and a Raspberry Pi (or similar) board as the "hub". The hub will manage the plugs and hold the user information and will be exposed to the world with a website that you can connect to if you are on the same network as it. We also plan to implement a way for user applications to connect and control the plugs through the hub. The aim of this project is to make all apis available for the user to develop applications on their own and to be transparent with what we do with user data. We currently need 1-2 students who are interested in developing the front end interface of a web app and desktop app in html/javascript/css. We have a discord server for anyone who is interested in joining. You can also email either of us with questions.
